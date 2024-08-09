@@ -4,7 +4,7 @@ body {
 }
 
 #world {
-    width: 484px
+    width: 484px;
     overflow: hidden;
     display: block;
 }
